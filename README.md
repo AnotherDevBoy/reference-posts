@@ -19,6 +19,7 @@
 ### Threads
 - [On the Performance of User-Mode Threads and Coroutines](https://inside.java/2020/08/07/loom-performance/)
 - [How Much Memory Does a Java Thread Take?](https://dzone.com/articles/how-much-memory-does-a-java-thread-take)
+- [Different States of Java Threads](https://www.javacodegeeks.com/2019/01/different-states-java-threads.html)
 
 ## Concurrency
 - [Cooperative vs. Preemptive: a quest to maximize concurrency power](https://medium.com/traveloka-engineering/cooperative-vs-preemptive-a-quest-to-maximize-concurrency-power-3b10c5a920fe)
@@ -32,3 +33,25 @@
 
 ## Testing
 - [IntegrationTest](https://martinfowler.com/bliki/IntegrationTest.html)
+- [Good enough software testing](https://filfreire.com/posts/good_enough_testing)
+
+## Web
+### WebPerf
+- [Cumulative Layout Shift: Measure and Avoid Visual Instability](https://calibreapp.com/blog/cumulative-layout-shift)
+- [Improving Time To First Byte (TTFB) With Cloudflare](https://community.cloudflare.com/t/improving-time-to-first-byte-ttfb-with-cloudflare/390367)
+
+## Effective Teams
+- [How to build silos and decrease collaboration (on purpose)](https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/)
+
+## Career
+- [Are Job Titles Important? (This Might Surprise You)](https://careersidekick.com/are-job-titles-important/)
+
+## Scalability
+- [10M Concurrent Websockets](http://goroutines.com/10m)
+- [The Road to 2 Million Websocket Connections in Phoenix](https://www.phoenixframework.org/blog/the-road-to-2-million-websocket-connections)
+- [1,000,000 Concurrent Connections](https://josephmate.github.io/2022-04-14-max-connections/)
+- [Handling Out-of-Order Data in Real-Time Analytics Applications](https://thenewstack.io/handling-out-of-order-data-in-real-time-analytics-applications/)
+
+## API
+- [REST vs RPC: What problems are you trying to solve with your APIs?](https://cloud.google.com/blog/products/application-development/rest-vs-rpc-what-problems-are-you-trying-to-solve-with-your-apis)
+- [Do you really know why you prefer REST over RPC?](http://apihandyman.io/do-you-really-know-why-you-prefer-rest-over-rpc/)
