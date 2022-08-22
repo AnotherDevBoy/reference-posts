@@ -43,6 +43,7 @@
 
 ## Effective Teams
 - [How to build silos and decrease collaboration (on purpose)](https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/)
+- [TestCoverage](https://martinfowler.com/bliki/TestCoverage.html)
 
 ## Career
 - [Are Job Titles Important? (This Might Surprise You)](https://careersidekick.com/are-job-titles-important/)
@@ -60,3 +61,6 @@
 
 ## Time management
 - [The Eisenhower Matrix: Important vs. Urgent](http://www.refreshleadership.com/index.php/2020/11/eisenhower-matrix-important-urgent/)
+
+## Leadership
+- [Being Glue](https://noidea.dog/glue)
