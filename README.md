@@ -65,3 +65,6 @@
 
 ## Leadership
 - [Being Glue](https://noidea.dog/glue)
+
+## Interviewing
+- [Does Stress Impact Technical Interview Performance?](http://chrisparnin.me/pdf/stress_FSE_20.pdf)
