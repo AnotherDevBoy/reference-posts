@@ -46,6 +46,7 @@
 
 ## Career
 - [Are Job Titles Important? (This Might Surprise You)](https://careersidekick.com/are-job-titles-important/)
+- [Get better at programming by learning how things work](https://jvns.ca/blog/learn-how-things-work/)
 
 ## Scalability
 - [10M Concurrent Websockets](http://goroutines.com/10m)
