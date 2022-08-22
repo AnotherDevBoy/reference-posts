@@ -57,3 +57,6 @@
 ## API
 - [REST vs RPC: What problems are you trying to solve with your APIs?](https://cloud.google.com/blog/products/application-development/rest-vs-rpc-what-problems-are-you-trying-to-solve-with-your-apis)
 - [Do you really know why you prefer REST over RPC?](http://apihandyman.io/do-you-really-know-why-you-prefer-rest-over-rpc/)
+
+## Time management
+- [The Eisenhower Matrix: Important vs. Urgent](http://www.refreshleadership.com/index.php/2020/11/eisenhower-matrix-important-urgent/)
