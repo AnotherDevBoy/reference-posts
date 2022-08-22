@@ -44,6 +44,7 @@
 ## Effective Teams
 - [How to build silos and decrease collaboration (on purpose)](https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/)
 - [TestCoverage](https://martinfowler.com/bliki/TestCoverage.html)
+- [Making Engineering Team Communication Clearer, Faster, Better](https://review.firstround.com/making-engineering-team-communication-clearer-faster-better)
 
 ## Career
 - [Are Job Titles Important? (This Might Surprise You)](https://careersidekick.com/are-job-titles-important/)
