@@ -24,9 +24,10 @@
 ## Concurrency
 - [Cooperative vs. Preemptive: a quest to maximize concurrency power](https://medium.com/traveloka-engineering/cooperative-vs-preemptive-a-quest-to-maximize-concurrency-power-3b10c5a920fe)
 
-## Hotspot
+## JVM
 - [Seeing escape analysis working](https://www.javaadvent.com/2020/12/seeing-escape-analysis-working.html)
 - [HotSpot JVM optimizations](https://blog.jdriven.com/2019/11/hotspot-jvm-optimizations/)
+- [Containerize your Java applications](https://learn.microsoft.com/en-us/azure/developer/java/containers/overview)
 
 ## Redis
 - [Persistence in (AWS ElastiCache) Redis](https://lipanski.com/posts/persistence-in-elasticache-redis)
