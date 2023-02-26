@@ -97,3 +97,5 @@
 
 ## Technical writing
 - [Becoming a Better Writer as a Software Engineer](https://blog.pragmaticengineer.com/becoming-a-better-writer-in-tech/)
+- [A Software Developer’s Guide to Writing](https://theankurtyagi.hashnode.dev/a-software-developers-guide-to-writing)
+- [How to Write Technical Documentation With Empathy](https://betterprogramming.pub/how-to-write-technical-documentation-with-empathy-f321104746f3)
