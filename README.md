@@ -5,10 +5,12 @@
 
 ## Team Metrics
 - [4 no-nonsense metrics for measuring your engineering team’s ability to execute](https://cast.ai/blog/4-no-nonsense-metrics-for-measuring-your-engineering-teams-ability-to-execute/)
+- [Can developer productivity be measured?](https://stackoverflow.blog/2020/12/07/measuring-developer-productivity/)
 
 ## Code Reviews
 - [Who’s “Allowed” To Review Code?](https://trishagee.com/2020/10/24/whos-allowed-to-review-code/)
 - [Five Code Review Antipatterns](https://blogs.oracle.com/javamagazine/post/five-code-review-antipatterns?source=:em:nw:mt::::RC_WWMK200429P00043:NSL400128796&elq_mid=184928&sh=162609181316181313222609291604350235&cmid=WWMK200429P00043C0019)
+- [The code reviewp pyramid](https://www.morling.dev/blog/the-code-review-pyramid/?utm_content=201340967&utm_medium=social&utm_source=twitter&hss_channel=tw-4083531)
 
 ## CLI
 - [Command Line Interface Guidelines](https://clig.dev/)
@@ -52,12 +54,14 @@
 ## Career
 - [Are Job Titles Important? (This Might Surprise You)](https://careersidekick.com/are-job-titles-important/)
 - [Get better at programming by learning how things work](https://jvns.ca/blog/learn-how-things-work/)
+- [What should I say in my exit interview?](https://charity.wtf/2021/04/16/questionable-advice-what-should-i-say-in-my-exit-interview/)
 
 ## Scalability
 - [10M Concurrent Websockets](http://goroutines.com/10m)
 - [The Road to 2 Million Websocket Connections in Phoenix](https://www.phoenixframework.org/blog/the-road-to-2-million-websocket-connections)
 - [1,000,000 Concurrent Connections](https://josephmate.github.io/2022-04-14-max-connections/)
 - [Handling Out-of-Order Data in Real-Time Analytics Applications](https://thenewstack.io/handling-out-of-order-data-in-real-time-analytics-applications/)
+- [Simple systems have less downtime](https://www.gkogan.co/blog/simple-systems/)
 
 ## API
 - [REST vs RPC: What problems are you trying to solve with your APIs?](https://cloud.google.com/blog/products/application-development/rest-vs-rpc-what-problems-are-you-trying-to-solve-with-your-apis)
@@ -73,6 +77,13 @@
 - [How to announce organizational change in your first 90 days](https://larahogan.me/blog/org-change-90-days-new-role/)
 - [Writing an engineering strategy](https://lethain.com/eng-strategies/)
 - [Why flow matters more than passion](https://leaddev.com/culture-engagement-motivation/why-flow-matters-more-passion)
+- [The integrator burden](https://cutlefish.substack.com/p/tmb-4252-the-integrator-burden)
+- [The importance of small, positive interactions](https://leaddev.com/culture-engagement-motivation/importance-small-positive-interactions)
+- [Why bring solutions not problems doesn't work](https://larahogan.me/blog/bring-solutions-not-problems/)
+
+## Mentoring
+- [An incomplete list of skills senior engineers need, beyond coding](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f)
+- [How to Support Junior Developers: Ten Crucial Tips for Seniors and Leads](https://annajmcdougall.medium.com/how-to-support-junior-developers-ten-crucial-tips-for-seniors-and-leads-6cb7fb5925bd)
 
 ## Interviewing
 - [Does Stress Impact Technical Interview Performance?](http://chrisparnin.me/pdf/stress_FSE_20.pdf)
