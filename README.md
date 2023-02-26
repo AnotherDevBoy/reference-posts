@@ -12,6 +12,9 @@
 - [Five Code Review Antipatterns](https://blogs.oracle.com/javamagazine/post/five-code-review-antipatterns?source=:em:nw:mt::::RC_WWMK200429P00043:NSL400128796&elq_mid=184928&sh=162609181316181313222609291604350235&cmid=WWMK200429P00043C0019)
 - [The code reviewp pyramid](https://www.morling.dev/blog/the-code-review-pyramid/?utm_content=201340967&utm_medium=social&utm_source=twitter&hss_channel=tw-4083531)
 
+## Serverless
+- [BBC Online — A year with serverless](https://medium.com/bbc-product-technology/bbc-online-a-year-with-serverless-ffc2ae474277)
+
 ## CLI
 - [Command Line Interface Guidelines](https://clig.dev/)
 
@@ -40,6 +43,7 @@
 - [Good enough software testing](https://filfreire.com/posts/good_enough_testing)
 - [Unit Test - Definition](https://www.artofunittesting.com/definition-of-a-unit-test)
 - [The Unit in Unit Testing](https://www.infoq.com/articles/unit-testing-approach/)
+- [Am I testing the right way?](https://foojay.io/today/am-i-testing-the-right-way/)
 
 ## Web
 ### WebPerf
@@ -55,6 +59,7 @@
 - [Are Job Titles Important? (This Might Surprise You)](https://careersidekick.com/are-job-titles-important/)
 - [Get better at programming by learning how things work](https://jvns.ca/blog/learn-how-things-work/)
 - [What should I say in my exit interview?](https://charity.wtf/2021/04/16/questionable-advice-what-should-i-say-in-my-exit-interview/)
+- [The product minded engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
 
 ## Scalability
 - [10M Concurrent Websockets](http://goroutines.com/10m)
@@ -80,10 +85,15 @@
 - [The integrator burden](https://cutlefish.substack.com/p/tmb-4252-the-integrator-burden)
 - [The importance of small, positive interactions](https://leaddev.com/culture-engagement-motivation/importance-small-positive-interactions)
 - [Why bring solutions not problems doesn't work](https://larahogan.me/blog/bring-solutions-not-problems/)
+- [Mission → Vision → Strategy → Goals → Roadmap → Task](https://www.lennysnewsletter.com/p/mission-vision-strategy-goals-roadmap?r=159d3&utm_campaign=post&utm_medium=email)
 
 ## Mentoring
 - [An incomplete list of skills senior engineers need, beyond coding](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f)
 - [How to Support Junior Developers: Ten Crucial Tips for Seniors and Leads](https://annajmcdougall.medium.com/how-to-support-junior-developers-ten-crucial-tips-for-seniors-and-leads-6cb7fb5925bd)
+- [The feedback fallacy](https://hbr.org/2019/03/the-feedback-fallacy)
 
 ## Interviewing
 - [Does Stress Impact Technical Interview Performance?](http://chrisparnin.me/pdf/stress_FSE_20.pdf)
+
+## Technical writing
+- [Becoming a Better Writer as a Software Engineer](https://blog.pragmaticengineer.com/becoming-a-better-writer-in-tech/)
