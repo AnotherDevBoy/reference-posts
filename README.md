@@ -36,6 +36,7 @@
 - [IntegrationTest](https://martinfowler.com/bliki/IntegrationTest.html)
 - [Good enough software testing](https://filfreire.com/posts/good_enough_testing)
 - [Unit Test - Definition](https://www.artofunittesting.com/definition-of-a-unit-test)
+- [The Unit in Unit Testing](https://www.infoq.com/articles/unit-testing-approach/)
 
 ## Web
 ### WebPerf
@@ -66,6 +67,9 @@
 
 ## Leadership
 - [Being Glue](https://noidea.dog/glue)
+- [How to spend your first 30 days in a new senior-level role](https://larahogan.me/blog/first-30-days-new-role/)
+- [30-60 days in a new leadership role: run experiments for change](https://larahogan.me/blog/first-60-days-new-role/)
+- [How to announce organizational change in your first 90 days](https://larahogan.me/blog/org-change-90-days-new-role/)
 
 ## Interviewing
 - [Does Stress Impact Technical Interview Performance?](http://chrisparnin.me/pdf/stress_FSE_20.pdf)
