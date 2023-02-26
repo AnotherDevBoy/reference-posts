@@ -1,6 +1,7 @@
 # reference-posts
 ## Humble Pie
 - [Are we really engineers?](https://www.hillelwayne.com/post/are-we-really-engineers/)
+- [The maze is in the mouse](https://medium.com/@pravse/the-maze-is-in-the-mouse-980c57cfd61a)
 
 ## Team Metrics
 - [4 no-nonsense metrics for measuring your engineering team’s ability to execute](https://cast.ai/blog/4-no-nonsense-metrics-for-measuring-your-engineering-teams-ability-to-execute/)
@@ -70,6 +71,8 @@
 - [How to spend your first 30 days in a new senior-level role](https://larahogan.me/blog/first-30-days-new-role/)
 - [30-60 days in a new leadership role: run experiments for change](https://larahogan.me/blog/first-60-days-new-role/)
 - [How to announce organizational change in your first 90 days](https://larahogan.me/blog/org-change-90-days-new-role/)
+- [Writing an engineering strategy](https://lethain.com/eng-strategies/)
+- [Why flow matters more than passion](https://leaddev.com/culture-engagement-motivation/why-flow-matters-more-passion)
 
 ## Interviewing
 - [Does Stress Impact Technical Interview Performance?](http://chrisparnin.me/pdf/stress_FSE_20.pdf)
