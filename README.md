@@ -86,6 +86,7 @@
 - [The importance of small, positive interactions](https://leaddev.com/culture-engagement-motivation/importance-small-positive-interactions)
 - [Why bring solutions not problems doesn't work](https://larahogan.me/blog/bring-solutions-not-problems/)
 - [Mission → Vision → Strategy → Goals → Roadmap → Task](https://www.lennysnewsletter.com/p/mission-vision-strategy-goals-roadmap?r=159d3&utm_campaign=post&utm_medium=email)
+- [Disagree and Commit](https://www.scarletink.com/disagree-and-commit-getting-things-done/)
 
 ## Mentoring
 - [An incomplete list of skills senior engineers need, beyond coding](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f)
