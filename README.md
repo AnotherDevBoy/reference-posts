@@ -11,6 +11,7 @@
 - [Who’s “Allowed” To Review Code?](https://trishagee.com/2020/10/24/whos-allowed-to-review-code/)
 - [Five Code Review Antipatterns](https://blogs.oracle.com/javamagazine/post/five-code-review-antipatterns?source=:em:nw:mt::::RC_WWMK200429P00043:NSL400128796&elq_mid=184928&sh=162609181316181313222609291604350235&cmid=WWMK200429P00043C0019)
 - [The code reviewp pyramid](https://www.morling.dev/blog/the-code-review-pyramid/?utm_content=201340967&utm_medium=social&utm_source=twitter&hss_channel=tw-4083531)
+- [Continuous Code Reviews](https://thinkinglabs.io/articles/2023/05/02/continuous-code-reviews-using-non-blocking-reviews-a-case-study.html)
 
 ## Serverless
 - [BBC Online — A year with serverless](https://medium.com/bbc-product-technology/bbc-online-a-year-with-serverless-ffc2ae474277)
@@ -100,3 +101,7 @@
 - [Becoming a Better Writer as a Software Engineer](https://blog.pragmaticengineer.com/becoming-a-better-writer-in-tech/)
 - [A Software Developer’s Guide to Writing](https://theankurtyagi.hashnode.dev/a-software-developers-guide-to-writing)
 - [How to Write Technical Documentation With Empathy](https://betterprogramming.pub/how-to-write-technical-documentation-with-empathy-f321104746f3)
+
+## AI
+### Assisted Programming
+- [Reading Between the Lines: Modeling User Behavior and Costs in AI-Assisted Programming](https://arxiv.org/pdf/2210.14306.pdf)
