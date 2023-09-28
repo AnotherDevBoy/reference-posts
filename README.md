@@ -80,6 +80,7 @@
 - [Being Glue](https://noidea.dog/glue)
 - [How to spend your first 30 days in a new senior-level role](https://larahogan.me/blog/first-30-days-new-role/)
 - [30-60 days in a new leadership role: run experiments for change](https://larahogan.me/blog/first-60-days-new-role/)
+- [How To Create A 30-60-90 Day Plan for Managers](https://hive.com/blog/30-60-90-day-plan-for-managers/)
 - [How to announce organizational change in your first 90 days](https://larahogan.me/blog/org-change-90-days-new-role/)
 - [Writing an engineering strategy](https://lethain.com/eng-strategies/)
 - [Why flow matters more than passion](https://leaddev.com/culture-engagement-motivation/why-flow-matters-more-passion)
@@ -88,6 +89,7 @@
 - [Why bring solutions not problems doesn't work](https://larahogan.me/blog/bring-solutions-not-problems/)
 - [Mission → Vision → Strategy → Goals → Roadmap → Task](https://www.lennysnewsletter.com/p/mission-vision-strategy-goals-roadmap?r=159d3&utm_campaign=post&utm_medium=email)
 - [Disagree and Commit](https://www.scarletink.com/disagree-and-commit-getting-things-done/)
+- [How to use the "Knowns" and "Unknowns" technique to manage assumptions](https://tigosoftware.com/how-use-knowns-and-unknowns-technique-manage-assumptions)
 
 ## Mentoring
 - [An incomplete list of skills senior engineers need, beyond coding](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f)
