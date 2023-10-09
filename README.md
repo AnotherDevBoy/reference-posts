@@ -107,3 +107,6 @@
 ## AI
 ### Assisted Programming
 - [Reading Between the Lines: Modeling User Behavior and Costs in AI-Assisted Programming](https://arxiv.org/pdf/2210.14306.pdf)
+
+## MySQL
+- [Don’t break production: learn about MySQL locks](https://simon-ninon.medium.com/dont-break-production-learn-about-mysql-locks-297671ec8e73)
