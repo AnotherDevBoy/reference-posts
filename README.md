@@ -45,6 +45,8 @@
 - [Unit Test - Definition](https://www.artofunittesting.com/definition-of-a-unit-test)
 - [The Unit in Unit Testing](https://www.infoq.com/articles/unit-testing-approach/)
 - [Am I testing the right way?](https://foojay.io/today/am-i-testing-the-right-way/)
+- [Write tests. Not too many. Mostly integration](https://kentcdodds.com/blog/write-tests)
+- [The Testing Trophy and Testing Classifications](https://kentcdodds.com/blog/the-testing-trophy-and-testing-classifications)
 
 ## Web
 ### WebPerf
