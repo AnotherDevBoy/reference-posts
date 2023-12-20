@@ -36,8 +36,12 @@
 - [HotSpot JVM optimizations](https://blog.jdriven.com/2019/11/hotspot-jvm-optimizations/)
 - [Containerize your Java applications](https://learn.microsoft.com/en-us/azure/developer/java/containers/overview)
 
-## Redis
+## Databases
+### Redis
 - [Persistence in (AWS ElastiCache) Redis](https://lipanski.com/posts/persistence-in-elasticache-redis)
+
+### S3
+- [Thrudb - faster, cheaper than SimpleDB](https://www.igvita.com/2007/12/28/thrudb-faster-and-cheaper-than-simpledb/)
 
 ## Testing
 - [IntegrationTest](https://martinfowler.com/bliki/IntegrationTest.html)
@@ -77,6 +81,7 @@
 
 ## Time management
 - [The Eisenhower Matrix: Important vs. Urgent](http://www.refreshleadership.com/index.php/2020/11/eisenhower-matrix-important-urgent/)
+- [Your Calendar = Your Priorities](https://cutlefish.substack.com/p/tbm-4952-your-calendar-your-priorities)
 
 ## Leadership
 - [Being Glue](https://noidea.dog/glue)
