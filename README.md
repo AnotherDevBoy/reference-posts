@@ -74,6 +74,7 @@
 - [1,000,000 Concurrent Connections](https://josephmate.github.io/2022-04-14-max-connections/)
 - [Handling Out-of-Order Data in Real-Time Analytics Applications](https://thenewstack.io/handling-out-of-order-data-in-real-time-analytics-applications/)
 - [Simple systems have less downtime](https://www.gkogan.co/blog/simple-systems/)
+- [Making Sense of Kubernetes CPU Requests And Limits](https://medium.com/@jettycloud/making-sense-of-kubernetes-cpu-requests-and-limits-390bbb5b7c92)
 
 ## API
 - [REST vs RPC: What problems are you trying to solve with your APIs?](https://cloud.google.com/blog/products/application-development/rest-vs-rpc-what-problems-are-you-trying-to-solve-with-your-apis)
