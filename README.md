@@ -35,6 +35,7 @@
 - [Seeing escape analysis working](https://www.javaadvent.com/2020/12/seeing-escape-analysis-working.html)
 - [HotSpot JVM optimizations](https://blog.jdriven.com/2019/11/hotspot-jvm-optimizations/)
 - [Containerize your Java applications](https://learn.microsoft.com/en-us/azure/developer/java/containers/overview)
+- [Java Best Practices](https://www.jonathangiles.net/jbp/index.html)
 
 ## Databases
 ### Redis
