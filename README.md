@@ -99,6 +99,7 @@
 - [Mission → Vision → Strategy → Goals → Roadmap → Task](https://www.lennysnewsletter.com/p/mission-vision-strategy-goals-roadmap?r=159d3&utm_campaign=post&utm_medium=email)
 - [Disagree and Commit](https://www.scarletink.com/disagree-and-commit-getting-things-done/)
 - [How to use the "Knowns" and "Unknowns" technique to manage assumptions](https://tigosoftware.com/how-use-knowns-and-unknowns-technique-manage-assumptions)
+- [My favourite decision making frameworks](https://www.lennysnewsletter.com/p/my-favorite-decision-making-frameworks?s=09)
 
 ## Mentoring
 - [An incomplete list of skills senior engineers need, beyond coding](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f)
