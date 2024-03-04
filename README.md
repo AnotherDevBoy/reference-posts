@@ -37,6 +37,9 @@
 - [Containerize your Java applications](https://learn.microsoft.com/en-us/azure/developer/java/containers/overview)
 - [Java Best Practices](https://www.jonathangiles.net/jbp/index.html)
 
+## Error handling
+- [Effective Java Exceptions](https://www.oracle.com/technical-resources/articles/enterprise-architecture/effective-exceptions-part1.html)
+
 ## Databases
 ### Redis
 - [Persistence in (AWS ElastiCache) Redis](https://lipanski.com/posts/persistence-in-elasticache-redis)
