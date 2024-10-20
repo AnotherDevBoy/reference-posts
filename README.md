@@ -103,6 +103,7 @@
 - [Disagree and Commit](https://www.scarletink.com/disagree-and-commit-getting-things-done/)
 - [How to use the "Knowns" and "Unknowns" technique to manage assumptions](https://tigosoftware.com/how-use-knowns-and-unknowns-technique-manage-assumptions)
 - [My favourite decision making frameworks](https://www.lennysnewsletter.com/p/my-favorite-decision-making-frameworks?s=09)
+- [Better Decision Making for Engineering Managers](https://medium.com/@leonst/better-decision-making-for-engineering-managers-d074e6841ae4)
 
 ## Mentoring
 - [An incomplete list of skills senior engineers need, beyond coding](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f)
